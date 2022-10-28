@@ -1,0 +1,94 @@
+%svg-common {
+	background: url("svg/sprite.view.svg") no-repeat;
+}
+
+.svg-Logo {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-Logo-dims {
+	width: 191px;
+	height: 31px;
+}
+
+.svg-btnClose {
+	@extend %svg-common;
+	background-position: 49.707602339181285% 75.60975609756098%;
+}
+
+.svg-btnClose-dims {
+	width: 20px;
+	height: 20px;
+}
+
+.svg-burger {
+	@extend %svg-common;
+	background-position: 61.40350877192982% 72.09302325581395%;
+}
+
+.svg-burger-dims {
+	width: 20px;
+	height: 18px;
+}
+
+.svg-calendar {
+	@extend %svg-common;
+	background-position: 80.7909604519774% 65.95744680851064%;
+}
+
+.svg-calendar-dims {
+	width: 14px;
+	height: 14px;
+}
+
+.svg-eclipse {
+	@extend %svg-common;
+	background-position: 72.25433526011561% 72.09302325581395%;
+}
+
+.svg-eclipse-dims {
+	width: 18px;
+	height: 18px;
+}
+
+.svg-ok {
+	@extend %svg-common;
+	background-position: 0 100%;
+}
+
+.svg-ok-dims {
+	width: 30px;
+	height: 30px;
+}
+
+.svg-phone {
+	@extend %svg-common;
+	background-position: 87.70949720670392% 63.265306122448976%;
+}
+
+.svg-phone-dims {
+	width: 12px;
+	height: 12px;
+}
+
+.svg-search {
+	@extend %svg-common;
+	background-position: 36.144578313253014% 86.11111111111111%;
+}
+
+.svg-search-dims {
+	width: 25px;
+	height: 25px;
+}
+
+.svg-vk {
+	@extend %svg-common;
+	background-position: 18.633540372670808% 100%;
+}
+
+.svg-vk-dims {
+	width: 30px;
+	height: 30px;
+}
+
